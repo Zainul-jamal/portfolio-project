@@ -1460,3 +1460,10 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+  .logo {
+    font-family: "Whisper", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
